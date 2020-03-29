@@ -1,0 +1,27 @@
+
+<html>
+<head>
+<title>Steam Id Sitesi</title>
+</head>
+Steam Id =KOD  
+</body>
+</html>
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+<html>
+    <head>
+       <title>Sayfamızda görüntülenecek başlık</title>
+    </head>
+    <body background="https://cdn.discordapp.com/attachments/664848247575281684/693773187321954314/31774687078_cc3d10ebda_b.jpg">
+       Sponsored By: Muhammed Demirel
+    </body>
+ </html>
